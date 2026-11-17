@@ -47,7 +47,6 @@ The 2022 dataset covers only six months (January–June), so comparisons with fu
 
 For the complete findings and business insights, see [Key Business Findings & Insights](Documentation/Key_Findings.md).
 
-## Project Screenshots
 
 ## Project Screenshots
 
